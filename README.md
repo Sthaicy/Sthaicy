@@ -12,9 +12,9 @@ I'm motivated by facing challenges, collaborating with others, actively listenin
 
 ## 🎓 Education
 
-- Industrial Engineering (July 2020 – present)
+- Industrial Engineering
 
-- Systems Engineering (July 2025 – present)
+- Systems Engineering
 ---
 
 ## 🗣️ Languages
