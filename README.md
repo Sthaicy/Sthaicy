@@ -2,7 +2,7 @@
 
 ## About me 🎉
 
-I'm a Bolivian student of Industrial Engineering and Systems Engineering, passionate about technology, data analysis, and continuous learning. I consider myself an analytical person, with a knack for integrating into teams, and an open mind for receiving and applying constructive criticism.
+I'm a  student of Industrial Engineering and Systems Engineering, passionate about technology, data analysis, and continuous learning. I consider myself an analytical person, with a knack for integrating into teams, and an open mind for receiving and applying constructive criticism.
 
 Currently, I'm looking to gain practical experience in analytical, technical, or technological areas, with a clear focus on specializing in Data Science and Machine Learning.
 
