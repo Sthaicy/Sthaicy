@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Jhosselin Sthaicy Bustamante Escobar
+# Hi, I'm Jhosselin Sthaicy Bustamante Escobar
 
-## About me 🎉
+## About me 
 
 I'm a  student of Industrial Engineering and Systems Engineering, passionate about technology, data analysis, and continuous learning. I consider myself an analytical person, with a knack for integrating into teams, and an open mind for receiving and applying constructive criticism.
 
@@ -10,21 +10,21 @@ I'm motivated by facing challenges, collaborating with others, actively listenin
 
 ---
 
-## 🎓 Education
+## Education
 
 - Industrial Engineering
 
 - Systems Engineering
 ---
 
-## 🗣️ Languages
+## Languages
 
 - Spanish: Native
 - English: Intermediate (B2) – Language Lab - CIL - UMSS
 
 ---
 
-## 🤝 Extracurricular Activities & Volunteering
+## Extracurricular Activities & Volunteering
 
 - SOCEII (2025 – present): Member of the Scientific Society of Industrial Engineering, a student organization that promotes research, innovation, and social interaction.
 
