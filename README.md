@@ -6,13 +6,12 @@ Systems Engineering Student & Industrial Engineering Student
 </h3>
 <p align="center">
 Data Science Learner • Programming Enthusiast • Aspiring Machine Learning & AI Specialist
-<img src="https://i.gifer.com/Paz.gif" width="40" valign="middle">
+<img src="https://i.gifer.com/Paz.gif" width="35" valign="middle">
 </p>
-<br>
 
-# <img src="https://i.gifer.com/Paz.gif" width="35" valign="middle"> About Me 
+# <img src="https://i.gifer.com/Paz.gif" width="45" valign="middle"> About Me 
  
-<img src="https://i.gifer.com/DAS.gif" width="280" align="right">
+<img src="https://i.gifer.com/DAS.gif" width="240" align="right">
 
 ```yaml
 Hi! I'm Sthaicy, an System Engineering student currently
@@ -25,9 +24,6 @@ my programming skills.
 I enjoy learning new technologies, solving problems, and turning ideas
 into meaningful projects.
 ```
- 
-<br clear="right">
- 
 # <img src="https://i.gifer.com/Paz.gif" width="45" valign="middle"> Technologies 
  
 <img src="https://i.gifer.com/1uHR.gif" width="320" align="right">
