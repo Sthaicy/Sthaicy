@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Systems Engineering Student & Industrial Engineering Graduate
+Systems Engineering Student & Industrial Engineering Student
 </h3>
 
 <p align="center">
