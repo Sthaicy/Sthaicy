@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=33&duration=3500&pause=1000&color=C8A2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Sthaicy;Systems+Engineering+Student;Industrial+Engineering+Graduate;Data+Science+Learner;Aspiring+Machine+Learning+%26+AI+Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=33&duration=3500&pause=1000&color=C8A2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%8C%99+I'm+Sthaicy;Systems+Engineering+Student;Industrial+Engineering+Student;Data+Science+Learner;Aspiring+Machine+Learning+%26+AI+Specialist" />
 </p>
 <h3 align="center">
 Systems Engineering Student & Industrial Engineering Student
 </h3>
 <p align="center">
 Data Science Learner • Programming Enthusiast • Aspiring Machine Learning & AI Specialist
-<img src="https://i.gifer.com/Paz.gif" width="35" valign="middle">
 </p>
 
-# <img src="https://i.gifer.com/Paz.gif" width="45" valign="middle"> About Me 
+# <img src="https://static.wikia.nocookie.net/pac-man/images/1/11/Pinky1.0.png/revision/latest/scale-to-width-down/180?cb=20150826032159&path-prefix=es" width="35" valign="middle"> About Me 
  
 <img src="https://i.gifer.com/DAS.gif" width="240" align="right">
 
@@ -24,9 +23,9 @@ my programming skills.
 I enjoy learning new technologies, solving problems, and turning ideas
 into meaningful projects.
 ```
-# <img src="https://i.gifer.com/Paz.gif" width="45" valign="middle"> Technologies 
+# <img src="https://static.wikia.nocookie.net/pac-man/images/1/11/Pinky1.0.png/revision/latest/scale-to-width-down/180?cb=20150826032159&path-prefix=es" width="35" valign="middle"> Technologies 
  
-<img src="https://i.gifer.com/1uHR.gif" width="320" align="right">
+<img src="https://i.gifer.com/1uHR.gif" width="280" align="right">
 
 ### Programming Languages
  <p align="left">
