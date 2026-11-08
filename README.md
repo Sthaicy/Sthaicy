@@ -8,7 +8,7 @@ Systems Engineering Student & Industrial Engineering Student
 Data Science Learner • Programming Enthusiast • Aspiring Machine Learning & AI Specialist
 </p>
 
-# <img src="https://static.wikia.nocookie.net/pac-man/images/1/11/Pinky1.0.png/revision/latest/scale-to-width-down/180?cb=20150826032159&path-prefix=es" width="35" valign="middle"> About Me 
+# About Me 
  
 <img src="https://i.gifer.com/DAS.gif" width="240" align="right">
 
@@ -23,9 +23,7 @@ my programming skills.
 I enjoy learning new technologies, solving problems, and turning ideas
 into meaningful projects.
 ```
-# <img src="https://static.wikia.nocookie.net/pac-man/images/1/11/Pinky1.0.png/revision/latest/scale-to-width-down/180?cb=20150826032159&path-prefix=es" width="35" valign="middle"> Technologies 
- 
-<img src="https://i.gifer.com/1uHR.gif" width="280" align="right">
+# Technologies 
 
 ### Programming Languages
  <p align="left">
